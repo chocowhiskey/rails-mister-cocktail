@@ -41,7 +41,7 @@ gem 'font-awesome-sass'
 gem 'simple_form'
 
 gem 'cloudinary'
-gem 'carrierwave', '~> 1.2'
+gem 'carrierwave', '~> 1.3'
 
 
 group :development, :test do
